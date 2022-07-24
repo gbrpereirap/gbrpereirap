@@ -1,4 +1,4 @@
-### Estudante de Engenharia da computação
+### Bem vindos ao meu perfil!! me chamo Gabriel Pereira. 
 
 
 - 🌱 Estudando Python(Inicio dos conceitos de POO)
