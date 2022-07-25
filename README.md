@@ -1,4 +1,4 @@
-### Bem vindos ao meu perfil!! me chamo Gabriel Pereira. 
+### Bem vindos ao meu perfil! Me chamo Gabriel Pereira. 
 
 
 - 🌱 Estudando Python(Inicio dos conceitos de POO)
