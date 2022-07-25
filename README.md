@@ -5,7 +5,7 @@
 - 🌱 Estudante de Engenharia da computação
 
 <div>
-    <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=gbrpereirap=compact/>
+    <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=gbrpereirap&layout=compact)/>
 </div>
 <div stely="display: inline_block"><br>
     <img align="center" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
