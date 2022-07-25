@@ -5,7 +5,7 @@
 - 🌱 Estudante de Engenharia da computação
 
 <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+            <img align="center" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
  </div>
  
 ![Snake animation](https://github.com/gbrpereirap/gbrpereirap/blob/output/github-contribution-grid-snake.svg)
