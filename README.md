@@ -4,7 +4,7 @@
 - 🌱 Estudando Python(Inicio dos conceitos de POO)
 - 🌱 Estudante de Engenharia da computação
 
-<div>
+<div stely="display: inline_block"><br>
             <img align="center" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
  </div>
  
