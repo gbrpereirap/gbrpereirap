@@ -6,6 +6,8 @@
 
 <div>
     <img height="140em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=gbrpereirap&layout=compact/>
+    
+    
 </div>
 - :computer: Linguagens conhecidas
 <div style="display: inline_block"><br>
