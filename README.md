@@ -5,13 +5,13 @@
 - 🌱 Estudante de Engenharia da computação
 
 - :computer: Linguagens conhecidas
-
-
 <div style="display: inline_block"><br>
     <img align="center" height="40" weight="40" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img align="center" height="40" weight="40" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img align="center" height="40" weight="40" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 </div>
+
+
 <div>
     <img height="140em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=gbrpereirap&layout=compact/>
 </div>
