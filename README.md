@@ -5,7 +5,7 @@
 - 🌱 Estudante de Engenharia da computação
 
 <div>
-    <img height="140em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=gbrpereirap&layout=compact&show_icons=true&theme=github_dark>
+    <img height="140em" weight="100em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=gbrpereirap&layout=compact&show_icons=true&theme=github_dark>
 </div>
 
 - :computer: Linguagens conhecidas
