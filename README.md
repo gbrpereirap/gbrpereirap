@@ -3,6 +3,7 @@
 
 - 🌱 Estudando Python(PyQT5)
 - 🌱 Estudante de Engenharia da computação
+- 🌱 linkedin.com/in/gabriel-pereira-43891a248/
 
 <div>
     <img height="140em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=gbrpereirap&layout=compact&show_icons=true&theme=github_dark>
