@@ -1,6 +1,7 @@
 ### Bem vindos ao meu perfil! Me chamo Gabriel Pereira. 
 
 
+- 🌱 Participando do programa Start By Capgemini
 - 🌱 Estudando HTML, CSS e JavaScript
 - 🌱 Estudante de Engenharia da computação
 - 🌱 linkedin.com/in/gabriel-pereira-43891a248/
