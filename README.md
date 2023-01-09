@@ -18,5 +18,5 @@
     <img align="center" height="40" weight="40" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />       
 </div>
 
-![Snake animation](https://github.com/gbrpereirap/gbrpereirap/blob/output/github-contribution-grid-snake.svg)
+
   
